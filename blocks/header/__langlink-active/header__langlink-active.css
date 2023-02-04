@@ -1,9 +1,9 @@
-.header__lang_link_active {
+.header__langlink-active {
   text-decoration: underline;
   color: white;
   transition: opacity .2s ease-out;
 }
   
-.header__lang_link_active:hover {
+.header__langlink-active:hover {
   opacity: .5;
 }
