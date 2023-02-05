@@ -17,18 +17,10 @@
     grid-template-columns: 340px 1fr;
     column-gap: 28px;
   }
-  
-  .place:last-child {
-    padding-bottom: 90px;
-  }
 }
   
 @media (max-width: 720px) {
   .place {
     grid-template-columns: 1fr;
-  }
-  
-  .place:last-child {
-    padding-bottom: 66px;
   }
 }
